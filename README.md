@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RevengeNinja268
+- 👋 Hi, I’m @FafnirX26
 - 👀 I’m interested in python, chess, school, basketball, computers, math
 - 🌱 I’m currently learning python, chess, math, basketball
 - 💞️ I’m looking to collaborate on nothing really
