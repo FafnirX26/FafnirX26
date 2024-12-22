@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FafnirX26
+- 👋 Hi, I’m Ravi, a high schooler attending the STEM magnet program at Poolesville High School in Maryland!
 - 👀 I’m interested in python, chess, school, basketball, computers, math
 - 🌱 I’m currently learning python, chess, math, basketball
 - 💞️ I’m looking to collaborate on anything really
